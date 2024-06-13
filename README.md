@@ -6,3 +6,7 @@ This is a sample section
 Another sample section
 ## Data Analysis
 ### Heading 3
+
+# Image
+
+![pic](assets/Data-Science-Concepts.jpg)
